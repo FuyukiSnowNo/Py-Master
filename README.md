@@ -1101,7 +1101,3 @@ Where to discover learning resources or new Python libraries.
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
-
----
-
-If you have any question about this opinionated list, do not hesitate to contact [@VintaChen](https://twitter.com/VintaChen) on Twitter.
