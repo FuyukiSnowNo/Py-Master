@@ -1098,6 +1098,3 @@ Where to discover learning resources or new Python libraries.
 - [Talk Python To Me](https://talkpython.fm/)
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
-# Contributing
-
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
